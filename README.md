@@ -1,5 +1,3 @@
-# background-remover
-
 # Background Remover Tool
 
 A web-based tool to remove backgrounds from images using deep learning with Flask and PyTorch. This tool uses the DeepLabV3 model for background removal and integrates the Remove.bg API for enhanced quality.
